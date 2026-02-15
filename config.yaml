@@ -1,0 +1,14 @@
+database:
+  host: "<database host>"
+  database: "<database name>"
+  user: "<username>"
+  password: "<password>"
+
+ai:
+  api_key: "<api key>"
+  base_url: "<base url>"
+
+models:
+  text_parsing: "<text parsing model>" # eg. qwen-long-latest
+  image_parsing: "<image parsing model>" # eg. qwen3-vl-plus
+  daily_conversation: "<daily conversation model>" # eg. deepseek-v3.1
