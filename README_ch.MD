@@ -1,7 +1,7 @@
 ![Mindra Logo](Mindra_logo.png)
 
 <div align="center">
-  中文 | <a href="README.md">英文</a>
+  中文 | <a href="README.MD">英文</a>
 </div>
 
 **Mindra**是一款创新的AI驱动网络浏览器，将先进的人工智能功能直接集成到您的浏览体验中。通过AI侧边栏助手、智能内容解析和无缝用户管理等功能，Mindra彻底改变了您与网络交互的方式。

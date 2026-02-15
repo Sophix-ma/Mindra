@@ -1,7 +1,7 @@
 ![Mindra Logo](Mindra_logo.png)
 
 <div align="center">
-  English | <a href="README_ch.md">Chinese</a>
+  English | <a href="README_ch.MD">Chinese</a>
 </div>
 
 **Mindra** is an innovative AI-powered web browser that integrates advanced artificial intelligence capabilities directly into your browsing experience. With features like AI sidebar assistance, intelligent content parsing, and seamless user management, Mindra transforms how you interact with the web.
